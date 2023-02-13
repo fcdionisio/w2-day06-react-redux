@@ -4,11 +4,7 @@ import { updateSalary, demoteSalary } from "./action";
 import { Typography, Container, Grid, Card, CardContent, CardMedia, CardActions, Button } from '@mui/material';
 
 class ViewEmployee extends Component {
-
-
     render() {
-
-
         return (
             <>
                 <Container maxWidth="xl"  >
